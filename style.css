@@ -311,7 +311,7 @@ p h1 {
         top: 11%;
         right: 1%;
         max-width: 32%;
-        height: 320px;
+        height: 520px;
         /* max-height: 320px; */
         background-color: white;
         overflow-y: auto  ;
@@ -333,6 +333,9 @@ p h1 {
         grid-template-columns: 3fr 2fr 2fr ;
         margin-top: 15px;
         padding: 6px ;
+        margin-bottom: 1px solid;
+        /* position: fixed;
+        bottom: 0%; */
 
         
 
